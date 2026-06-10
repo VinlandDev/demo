@@ -1,0 +1,9 @@
+version = 1
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+[[analyzers]]
+name = "sca"
+enabled = true
