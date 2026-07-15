@@ -1,0 +1,9 @@
+{
+  "name": "demo-sca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SCA autofix test fixture — rollup pinned to a vulnerable version",
+  "dependencies": {
+    "rollup": "2.79.1"
+  }
+}
