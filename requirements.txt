@@ -1,9 +1,4 @@
-django==3.2.0
-requests==2.25.0
-flask==2.0.0
-pyyaml==5.3.1
-jinja2==2.11.0
-urllib3==1.26.4
-cryptography==3.4.0
-pillow==8.1.0
-# trigger SCA analysis
+django >=4.2.*
+pillow >=10.1.*
+keyring ==25.3.0
+cryptography ~=43.0.0
